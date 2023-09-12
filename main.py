@@ -7,7 +7,6 @@ from mpl_toolkits.mplot3d import Axes3D
 # gravitational constant
 G_const = 6.67408e-11
 
-
 def plot_our_planets(list_of_planet_dictionaries):
     # plot a figure with a 3D axes
     fig = plot.figure()
